@@ -17,3 +17,6 @@ The final notebook file in the repository named ['Sales_Analysis.ipynb'](Sales_A
 [YouTube Channel](https://www.youtube.com/c/KGMIT/featured)
 <br>
 [Project Video](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+
+
+## THANK YOU!!
