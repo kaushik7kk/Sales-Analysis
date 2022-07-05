@@ -12,4 +12,8 @@ The final notebook file in the repository named 'Sales_Analysis.ipynb' is the fi
 <br><br><br>
 
 #### Keith Galli Links
+<br><br>
 
+[YouTube Channel](https://www.youtube.com/c/KGMIT/featured)
+<br>
+[Project Video](https://www.youtube.com/watch?v=eMOA1pPVUc4)
